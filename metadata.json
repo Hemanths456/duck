@@ -1,0 +1,6 @@
+{
+  "name": "Duck Shooter",
+  "description": "A classic arcade duck-shooting game with cartoon ducks, shotgun crosshairs, difficulty progression, sound effects, and high-score tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

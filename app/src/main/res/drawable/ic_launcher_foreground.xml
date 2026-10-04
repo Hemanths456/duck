@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Duck Body -->
+    <path
+        android:fillColor="#FFEB3B"
+        android:strokeColor="#F57F17"
+        android:strokeWidth="1.5"
+        android:pathData="M 44,52 C 38,54 36,62 40,68 C 44,74 58,76 68,70 C 76,64 78,56 74,52 C 70,48 58,48 52,50 Z" />
+
+    <!-- Duck Tail Feather -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M 72,54 C 78,50 82,46 80,44 C 76,46 72,50 70,52 Z" />
+
+    <!-- Duck Wing -->
+    <path
+        android:fillColor="#FDD835"
+        android:strokeColor="#F57F17"
+        android:strokeWidth="1.2"
+        android:pathData="M 48,56 C 54,54 62,56 65,61 C 60,65 52,65 48,56 Z" />
+
+    <!-- Duck Head -->
+    <path
+        android:fillColor="#FFEB3B"
+        android:strokeColor="#F57F17"
+        android:strokeWidth="1.5"
+        android:pathData="M 46,35 C 53,35 58,40 58,47 C 58,54 53,58 46,58 C 39,58 35,53 35,46 C 35,40 40,35 46,35 Z" />
+
+    <!-- Orange Beak -->
+    <path
+        android:fillColor="#FF9800"
+        android:strokeColor="#E65100"
+        android:strokeWidth="1"
+        android:pathData="M 36,44 L 25,48 C 25,48 26,52 35,51 Z" />
+
+    <!-- Eye Outer (White) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 42,44 A 3.5,3.5 0 1,1 42,44.1 Z" />
+
+    <!-- Eye Pupil (Black) -->
+    <path
+        android:fillColor="#212121"
+        android:pathData="M 41,44 A 2,2 0 1,1 41,44.1 Z" />
+
+    <!-- Eye Specular Highlight -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 40.5,43.3 A 0.8,0.8 0 1,1 40.5,43.4 Z" />
+
+    <!-- Crosshair Target Sight -->
+    <!-- Outer ring -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#E53935"
+        android:strokeWidth="2.5"
+        android:pathData="M 54,30 A 24,24 0 1,0 54,78 A 24,24 0 1,0 54,30 Z" />
+
+    <!-- Inner ring -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFEBEE"
+        android:strokeWidth="1.5"
+        android:pathData="M 54,42 A 12,12 0 1,0 54,66 A 12,12 0 1,0 54,42 Z" />
+
+    <!-- Crosshair ticks -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#E53935"
+        android:strokeWidth="2.5"
+        android:pathData="M 54,24 L 54,38 M 54,70 L 54,84 M 24,54 L 38,54 M 70,54 L 84,54" />
+
+    <!-- Center dot -->
+    <path
+        android:fillColor="#E53935"
+        android:pathData="M 54,52 A 2,2 0 1,0 54,56 A 2,2 0 1,0 54,52 Z" />
+</vector>
